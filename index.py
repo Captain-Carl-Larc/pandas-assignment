@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 # Task 1: Load and Explore the Dataset
 # 1. Load the dataset

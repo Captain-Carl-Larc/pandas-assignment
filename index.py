@@ -14,3 +14,6 @@ except Exception as e:
 
 # 2. Display the first few rows of the dataset
 print(df.head())
+
+# 3. Explore the structure of the dataset
+print(df.info())
